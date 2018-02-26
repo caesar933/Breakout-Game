@@ -1,0 +1,12 @@
+*{
+    paddding:0;
+    margin:0;
+}
+body{
+    background-color: #D1EFED  ;
+}
+#myCanvas{
+    background-color: bisque;
+    display: block;
+    margin: 0 auto;  
+}
